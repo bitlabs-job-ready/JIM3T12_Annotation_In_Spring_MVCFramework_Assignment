@@ -1,0 +1,14 @@
+Jhon wants to create and manage a list of tasks they need to complete. please help him to create to-do app using Spring MVC.
+
+Tasks:
+
+1. Set up the project and configure Spring MVC.
+2. Implement the login and authentication process using Hibernate or JPA.
+3. Design the database schema to store tasks and user information.
+4. Handle the HTTP requests and responses, as well as the logic for creating, updating, and deleting tasks using Spring MVC.
+5. Use Spring Data to access and manipulate the task data in the database.
+
+
+Note: create a Maven project in Eclipse or STS Ide and push it to github.
+
+All the best!
